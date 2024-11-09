@@ -43,7 +43,7 @@ A library of long-horizon Task-and-Motion-Planning (TAMP) problems in simulated 
 1. Clone the repo along with the submodules. It may take a few minutes. 
 
 ```shell
-git clone git@github.com:Learning-and-Intelligent-Systems/kitchen-worlds.git --recursive
+git clone https://github.com/CeHao-NUS/kitchen-worlds.git --recursive
 ```
 
 <details close>
