@@ -13,8 +13,8 @@ from config_custom import OUTPUT_PATH, DATA_CONFIG_PATH
 from pigi_tools.replay_utils import run_replay, load_pigi_data
 
 ## change to whatever is printed at the end of planning
-given_subpath = 'custom_piginet_data/241007_213032_original'
-given_subpath = 'custom_pr2_kitchen_full/241007_233942'
+given_subpath = 'custom_piginet_data/250113_141550_original'
+# given_subpath = 'custom_pr2_kitchen_full/241007_233942'
 
 parser = argparse.ArgumentParser()
 parser.add_argument('-p', '--path', type=str, default=given_subpath)
